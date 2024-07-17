@@ -1,0 +1,21 @@
+t1AB.log:~~       AUTO__SCORED:      10.000 / 10.000
+t1A_timed.log:~~       AUTO__SCORED:      10.000 / 10.000
+t1CD.log:~~       AUTO__SCORED:      10.000 / 10.000
+t1D_timed.log:~~       AUTO__SCORED:      15.000 / 15.000
+t1E.log:~~       AUTO__SCORED:      5.000 / 5.000
+t1E_timed.log:~~       AUTO__SCORED:      15.000 / 15.000
+t2A.log:~~       AUTO__SCORED:      5.000 / 5.000
+t2A_timed.log:~~       AUTO__SCORED:      15.000 / 15.000
+t2B.log:~~       AUTO__SCORED:      5.000 / 5.000
+t2B_timed.log:~~       AUTO__SCORED:      15.000 / 15.000
+t2C.log:~~       AUTO__SCORED:      5.000 / 5.000
+t2C_timed.log:~~       AUTO__SCORED:      15.000 / 15.000
+t3A.log:~~       AUTO__SCORED:      15.000 / 15.000
+t4A.log:~~       AUTO__SCORED:      30.000 / 30.000
+t5A.log:~~       AUTO__SCORED:      30.000 / 30.000
+
+ AUTO-SCORE TOTAL:  200 / 200
+
+  MISSING POINTS (CRASHES?):  0
+  (EXPECTED MAX AUTO-SCORE: 200)
+

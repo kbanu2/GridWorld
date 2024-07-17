@@ -1,0 +1,40 @@
+running program t5A
+~~[0;94m~
+~##################################################
+~~  BEGIN TEST SUITE.  
+~~  DESCRIPTION: ~ ~ TIMED TEST: members after everybody killed but last one
+~~   FYI... Numtrials for runtime tests: 50
+~
+~~##################################################
+~
+~~[0m~~[0;95m~  ###  BEGIN TEST 1 #######
+~~[0;96m~       POINTS:    30.000
+~       FUNCTION-CALL-A:    "t5(gwBig, n)"
+~       FUNCTION-CALL-B:    "t5(gwSmall, 1)"
+~       GENERAL DESCRIPTION: this is a timed test.
+~            FUNCTION-CALL-A and FUNCTION-CALL-B are both called
+~            NUM_TRIALS times
+~            THE RATIO (TIME-FOR-CALL-B)/(TIME-FOR-CALL-A)
+~            IS TESTED VS MAX-ALLOWED
+~            COMMON USAGE: CALL-B is on a problem instance
+~              twice of that used in CALL-A
+~            NOTE: must pass both correctness & runtime
+~                  (zero points for getting the wrong answer fast!)
+~       SPECIFIC DESCRIPTION: singleton members timed test
+~
+~~[0m~    RESULTS OF THIS TEST:
+~~[1;32m~   PASSED!!:  correctness & runtime criteria satisfied
+~   MAX RATIO T(2N)/T(N): 1.35 ;~ OBSERVED RATIO T(2N)/T(N): 0.99
+~~[0m~~[0;96m~
+     CUMMULATIVE SCORE: 30.000 / 30.000
+~~[0;95m~  ###  END TEST 1 #######
+~
+~~[0m~~[0;94m~
+~##################################################
+~~  END TEST SUITE.  
+~~  DESCRIPTION: ~ ~ TIMED TEST: members after everybody killed but last one
+~~  RESULTS:
+~~       AUTO__SCORED:      30.000 / 30.000
+~
+~##################################################
+~~[0m
